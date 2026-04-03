@@ -1,6 +1,10 @@
 # Massively Optimized
 Blazingly fast, privacy first, and zero clutter.
 
+[Modrinth](https://modrinth.com/project/H8G5m3nM) • [Discord](https://discord.gg/xsU8cBwryz) • [Donate](https://discord.gg/63eJ9NMqEJ)
+
+Donate to Monero Adress: ```47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T```
+<img src="https://cdn.discordapp.com/attachments/1489390009550241872/1489430166525710488/qr-code.png?ex=69d0636f&is=69cf11ef&hm=0d254a28c1eb1c5c23ad47c7d6ee00c69510bfcb15f8899a03baf0e20ffbb0ad&" width="200" alt="Monero QR Code">
 ## Downloads
 
 | Version | Modrinth | Prism Launcher |
