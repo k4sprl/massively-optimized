@@ -18,8 +18,12 @@ Blazingly fast, privacy first, and zero clutter.
 | ![Inventory with JEI](https://cdn.modrinth.com/data/H8G5m3nM/images/e5db03aaf0a4f9b11a0ef4acfa11be4db93b3762.png "Inventory with JEI: Player Inventory with 'JustEnoughItems' (JEI) to search and see how to craft which items")<br>**Inventory with JEI**<br>*Player Inventory with 'JustEnoughItems' (JEI) to search and see how to craft which items* | ![Server List](https://cdn.modrinth.com/data/H8G5m3nM/images/0746df38df20715ba81b53e4846accf1a1973c24.png "Server List: The (💬✅) symbol means 'NoChat Reports' is suported")<br>**Server List**<br>*The (💬✅) symbol means 'NoChat Reports' is supported* |
 
 ---
+## Launcher Downloads
+| Launcher | <img src="https://www.google.com/s2/favicons?domain=minecraft.net&sz=32" width="16" height="16"> Minecraft Launcher | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth App |
+| :--- | :--- | :--- | :--- |
+| [About](https://minecraft.wiki/w/Minecraft_Launcher) | [Download](https://www.minecraft.net/en-us/download#alternate-versions) | [Download](https://prismlauncher.org/download) | [Download](https://modrinth.com/app) |
 
-## Downloads
+## Massively Optimized Downloads
 
 | Version | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher |
 | :--- | :--- | :--- |
@@ -37,10 +41,8 @@ Blazingly fast, privacy first, and zero clutter.
 | 1.21.2 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21.2) | [Download]() |
 | 1.21.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21.1) | [Download]() |
 | 1.21 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21) | [Download]() |
+| 1.14.4 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.4) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
+| 1.14.3 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.3) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
+| 1.14.2 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.2) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
+| 1.14.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.1) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
 | 1.14 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
-
-## Launcher Downloads
-
-| Launcher | <img src="https://www.google.com/s2/favicons?domain=minecraft.net&sz=32" width="16" height="16"> Minecraft Launcher | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth App |
-| :--- | :--- | :--- | :--- |
-| 26.1.1 | [Download](https://www.minecraft.net/en-us/download#alternate-versions) | [Download](https://prismlauncher.org/download) | [Download](https://modrinth.com/app) |
