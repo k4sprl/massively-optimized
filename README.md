@@ -41,8 +41,8 @@ Blazingly fast, privacy first, and zero clutter.
 | 1.21.2 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21.2) | [Download]() |
 | 1.21.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21.1) | [Download]() |
 | 1.21 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21) | [Download]() |
-| 1.14.4 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.4) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
-| 1.14.3 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.3) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
-| 1.14.2 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.2) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
-| 1.14.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.1) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
+| 1.14.4 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.4) | [Download]() |
+| 1.14.3 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.3) | [Download]() |
+| 1.14.2 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.2) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.2.zip) |
+| 1.14.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14.1) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.1.zip) |
 | 1.14 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
