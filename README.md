@@ -6,7 +6,7 @@ Blazingly fast, privacy first, and zero clutter.
 Donate to Monero Address: 
 `47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T`
 
-<img src="https://cdn.discordapp.com/attachments/1489390009550241872/1489430166525710488/qr-code.png?ex=69d0636f&is=69cf11ef&hm=0d254a28c1eb1c5c23ad47c7d6ee00c69510bfcb15f8899a03baf0e20ffbb0ad&" width="200" alt="Monero QR Code">
+<img src="https://cdn.discordapp.com/attachments/1489390009550241872/1489612944588275812/qr-code.png?ex=69db99a9&is=69da4829&hm=91e8804d2d59ad8976d546b604f27d2e1b9c214e997fe67243bfae8bea2eaaf0&" width="200" alt="Monero QR Code">
 
 ---
 
