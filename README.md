@@ -38,3 +38,4 @@ Donate to Monero Address:
 | 1.21.2 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21.2) | [Download]() |
 | 1.21.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21.1) | [Download]() |
 | 1.21 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21) | [Download]() |
+| 1.14 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
