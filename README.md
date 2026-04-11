@@ -1,10 +1,9 @@
 # Massively Optimized
 Blazingly fast, privacy first, and zero clutter.
 
-[Modrinth](https://modrinth.com/project/H8G5m3nM) • [Discord](https://discord.gg/xsU8cBwryz) • [Donate](https://discord.gg/63eJ9NMqEJ)
+[<img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth](https://modrinth.com/project/H8G5m3nM) • [<img src="https://cdn.simpleicons.org/discord/5865F2" width="16" height="16"> Discord](https://discord.gg/xsU8cBwryz) • [<img src="https://api.iconify.design/lucide:coins.svg?color=%23FFD700" width="16" height="16"> Donate](https://discord.gg/63eJ9NMqEJ)
 
-Donate to Monero Address: 
-`47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T`
+**Donate to Monero Address:** <img src="https://cdn.simpleicons.org/monero/F26822" width="16" height="16"> `47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T`
 
 <img src="https://cdn.discordapp.com/attachments/1489390009550241872/1489612944588275812/qr-code.png?ex=69db99a9&is=69da4829&hm=91e8804d2d59ad8976d546b604f27d2e1b9c214e997fe67243bfae8bea2eaaf0&" width="200" alt="Monero QR Code">
 
@@ -22,7 +21,7 @@ Donate to Monero Address:
 
 ## Downloads
 
-| Version | Modrinth | Prism Launcher |
+| Version | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher |
 | :--- | :--- | :--- |
 | 26.1.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=26.1.1) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%2026.1.1%20v1.1.1.zip) |
 | 26.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=26.1) | [Download]() |
@@ -39,3 +38,9 @@ Donate to Monero Address:
 | 1.21.1 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21.1) | [Download]() |
 | 1.21 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.21) | [Download]() |
 | 1.14 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
+
+## Launcher Downloads
+
+| Launcher | <img src="https://www.google.com/s2/favicons?domain=minecraft.net&sz=32" width="16" height="16"> Minecraft Launcher | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth App |
+| :--- | :--- | :--- | :--- |
+| 26.1.1 | [Download](https://www.minecraft.net/en-us/download#alternate-versions) | [Download](https://prismlauncher.org/download) | [Download](https://modrinth.com/app) |
