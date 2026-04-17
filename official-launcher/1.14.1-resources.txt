@@ -1,0 +1,14 @@
+# 1. TELL THE INSTALLER WHICH FABRIC TO USE
+FABRIC:0.18.6
+
+# 2. DOWNLOAD MODS
+FILE:mods/alternate-current-mc1.14-1.9.0.jar|https://cdn.modrinth.com/data/r0v8vy1s/versions/W26SrCEU/alternate-current-mc1.14-1.9.0.jar
+FILE:mods/fabriccontrolling-1.0.3.jar|https://cdn.modrinth.com/data/xv94TkTM/versions/6JuTt1Zk/fabriccontrolling-1.0.3.jar
+FILE:mods/Ksyxis-1.3.4.jar|https://cdn.modrinth.com/data/2ecVyZ49/versions/vCQj9Ui7/Ksyxis-1.3.4.jar
+FILE:mods/lazydfu-0.1.2.jar|https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
+
+# 3. DOWNLOAD CONFIGS (It will auto-create the config folder!)
+# FILE:config/FILENAME|https://raw.githubusercontent.com/.../FILENAME
+
+# 4. DOWNLOAD ROOT FILES
+FILE:options.txt|https://raw.githubusercontent.com/k4sprl/massively-optimized/main/official-launcher/1.14.1/minecraft/options.txt
