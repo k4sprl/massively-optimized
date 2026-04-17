@@ -6,7 +6,9 @@ on:
       - main
     paths:
       - 'pages/**' # Only run when files in the pages folder change
-
+# Add this exactly like this:
+  workflow_dispatch:
+  
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
