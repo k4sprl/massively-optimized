@@ -3,8 +3,14 @@ Blazingly fast, privacy first, and zero clutter.
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-2D3139?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com/project/H8G5m3nM) [![CurseForge](https://img.shields.io/badge/CurseForge-2D3139?style=flat-square&logo=curseforge&logoColor=F16436)](https://github.com/k4sprl/massively-optimized#massively-optimized-downloads) [![Discord](https://img.shields.io/badge/Discord-2D3139?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/xsU8cBwryz) [![Donate](https://img.shields.io/badge/Donate-2D3139?style=flat-square&logo=kofi&logoColor=FFD700)](https://discord.gg/63eJ9NMqEJ)
 
-**Donate to Monero Address:** <img src="https://cdn.simpleicons.org/monero/F26822" width="16" height="16"> `47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T`
-<img src="https://raw.githubusercontent.com/k4sprl/massively-optimized/d765c481dc10b5a20da0a14a944f64fd463ce735/qr-code.png" width="200" alt="Monero QR Code">
+
+### **Donate to my Monero Address:**
+<details>
+  <summary>View Monero Adress</summary>
+  
+`47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T`
+</details>
+<img src="https://raw.githubusercontent.com/k4sprl/massively-optimized/main/readmeAssets/qr-code.png" width="200" alt="Monero QR Code">
 
 ---
 
