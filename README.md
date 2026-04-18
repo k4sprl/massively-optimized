@@ -4,13 +4,11 @@ Blazingly fast, privacy first, and zero clutter.
 [![Modrinth](https://img.shields.io/badge/Modrinth-2D3139?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com/project/H8G5m3nM) [![CurseForge](https://img.shields.io/badge/CurseForge-2D3139?style=flat-square&logo=curseforge&logoColor=F16436)](https://github.com/k4sprl/massively-optimized#massively-optimized-downloads) [![Discord](https://img.shields.io/badge/Discord-2D3139?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/xsU8cBwryz) [![Donate](https://img.shields.io/badge/Donate-2D3139?style=flat-square&logo=kofi&logoColor=FFD700)](https://discord.gg/63eJ9NMqEJ)
 
 
-### **Donate with Crypto**
-[Pay with Crypto](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T&donation=True&amount=0.017&name=K4sperl&description=Thanks+for+donations%21&ticker_from=xmr&network_from=Mainnet&bgcolor=00000000)
-<details>
-  <summary>Monero Adress</summary>
+### **Donate via Crypto**
+> [Use other Cryptocurrency](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T&donation=True&amount=0.017&name=K4sperl&description=Thanks+for+donations%21&ticker_from=xmr&network_from=Mainnet&bgcolor=00000000)
+<details><summary>Monero Adress</summary>
   
-`47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T`
-</details>
+  `47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T`</details>
 <img src="https://raw.githubusercontent.com/k4sprl/massively-optimized/main/readmeAssets/qr-code.png" width="200" alt="Monero QR Code">
 
 ---
