@@ -6,7 +6,7 @@ Blazingly fast, privacy first, and zero clutter.
 
 ### **Donate via Crypto**
 > [Use other Cryptocurrency](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T&donation=True&amount=0.017&name=K4sperl&description=Thanks+for+donations%21&ticker_from=xmr&network_from=Mainnet&bgcolor=00000000)
-<details><summary>Monero Adress</summary>
+<details open><summary>Monero Adress</summary>
   
   `47r1nwoBX6i8ZUUbPmeJLAF5QvETMccTc9uMEdP2WhXF5fkGTQfHzwL9wFh9yRB2UZJmQuuPZLuciM7d37dK7uWS1nNUZ2T`</details>
 <img src="https://raw.githubusercontent.com/k4sprl/massively-optimized/main/readmeAssets/qr-code.png" width="200" alt="Monero QR Code">
@@ -48,7 +48,7 @@ Blazingly fast, privacy first, and zero clutter.
 </details>
 
 ### Don't have a launcher?
-<details><summary>Download a launcher</summary>
+<details open><summary>Download a launcher</summary>
   
 | Launcher | <img src="https://www.google.com/s2/favicons?domain=minecraft.net&sz=32" width="16" height="16"> Minecraft Launcher | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth App | <img src="https://cdn.simpleicons.org/curseforge/F15A24" width="16" height="16"> CurseForge App |
 | :--- | :--- | :--- | :--- | :--- |
