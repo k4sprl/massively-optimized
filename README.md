@@ -1,7 +1,7 @@
 # Massively Optimized
 Blazingly fast, privacy first, and zero clutter.
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-2D3139?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com/project/H8G5m3nM) [![CurseForge](https://img.shields.io/badge/CurseForge-2D3139?style=flat-square&logo=curseforge&logoColor=F16436)](https://github.com/k4sprl/massively-optimized#massively-optimized-downloads) [![Discord](https://img.shields.io/badge/Discord-2D3139?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/xsU8cBwryz) [![Donate](https://img.shields.io/badge/Donate-2D3139?style=flat-square&logo=kofi&logoColor=FFD700)](https://discord.gg/63eJ9NMqEJ)
+[![Modrinth](https://img.shields.io/badge/Modrinth-2D3139?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com/project/H8G5m3nM) [![CurseForge](https://img.shields.io/badge/CurseForge-2D3139?style=flat-square&logo=curseforge&logoColor=F16436)](https://github.com/k4sprl/massively-optimized#massively-optimized-downloads) [![Discord](https://img.shields.io/badge/Discord-2D3139?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/xsU8cBwryz)
 
 
 ### **Donate via Crypto**
@@ -20,7 +20,7 @@ Blazingly fast, privacy first, and zero clutter.
 | ![Inventory with JEI](https://cdn.modrinth.com/data/H8G5m3nM/images/e5db03aaf0a4f9b11a0ef4acfa11be4db93b3762.png "Inventory with JEI: Player Inventory with 'JustEnoughItems' (JEI) to search and see how to craft which items")<br>**Inventory with JEI**<br>*Player Inventory with 'JustEnoughItems' (JEI) to search and see how to craft which items* | ![Server List](https://cdn.modrinth.com/data/H8G5m3nM/images/0746df38df20715ba81b53e4846accf1a1973c24.png "Server List: The (💬✅) symbol means 'NoChat Reports' is suported")<br>**Server List**<br>*The (💬✅) symbol means 'NoChat Reports' is supported* |
 </details>
 
-## Massively Optimized Downloads
+# Massively Optimized Downloads
 
 <details><summary>View Versions</summary>
 
@@ -47,6 +47,12 @@ Blazingly fast, privacy first, and zero clutter.
 | 1.14 | [Download](https://modrinth.com/modpack/H8G5m3nM/versions?g=1.14) | [Download](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/prismlauncher/Massively%20Optimized%20v2.0%201.14.zip) |
 </details>
 
+## Installer for Official Minecraft Launcher
+> [!CAUTION]
+> The Installer is experimental and may cause issues and MAY (possibly) break your game, or else. Depending on operating system.
+
+[![Download Experimental Installer](https://img.shields.io/badge/Download-Experimental_Installer-critical?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/official-launcher/MassivelyOptimizedInstaller.jar) `.jar`
+
 ### Don't have a launcher?
 <details open><summary>Download a launcher</summary>
   
@@ -54,3 +60,6 @@ Blazingly fast, privacy first, and zero clutter.
 | :--- | :--- | :--- | :--- | :--- |
 | [About](https://minecraft.wiki/w/Minecraft_Launcher) | [Download](https://www.minecraft.net/en-us/download#alternate-versions) | [Download](https://prismlauncher.org/download) | [Download](https://modrinth.com/app) | [Download](https://www.curseforge.com/download/app) |
 </details>
+
+> [!TIP]
+> [Prism Launcher](https://prismlauncher.org/download) is **highly** recommended!
