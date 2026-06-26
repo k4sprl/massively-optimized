@@ -62,4 +62,4 @@ Blazingly fast, privacy first, and zero clutter.
 </details>
 
 > [!TIP]
-> [Prism Launcher](https://prismlauncher.org/download) is **highly** recommended!
+> [Prism Launcher](https://prismlauncher.org) is **highly** recommended!
