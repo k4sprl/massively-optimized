@@ -20,7 +20,7 @@ Blazingly fast, privacy first, and zero clutter.
 | ![Inventory with JEI](https://cdn.modrinth.com/data/H8G5m3nM/images/e5db03aaf0a4f9b11a0ef4acfa11be4db93b3762.png "Inventory with JEI: Player Inventory with 'JustEnoughItems' (JEI) to search and see how to craft which items")<br>**Inventory with JEI**<br>*Player Inventory with 'JustEnoughItems' (JEI) to search and see how to craft which items* | ![Server List](https://cdn.modrinth.com/data/H8G5m3nM/images/0746df38df20715ba81b53e4846accf1a1973c24.png "Server List: The (💬✅) symbol means 'NoChat Reports' is suported")<br>**Server List**<br>*The (💬✅) symbol means 'NoChat Reports' is supported* |
 </details>
 
-# Massively Optimized Downloads
+# ⤓ Massively Optimized Downloads
 
 <details><summary>View Versions</summary>
 
@@ -86,10 +86,12 @@ Blazingly fast, privacy first, and zero clutter.
 ### Don't have a launcher?
 <details open><summary>Download a launcher</summary>
   
-| Launcher | <img src="https://www.google.com/s2/favicons?domain=minecraft.net&sz=32" width="16" height="16"> Minecraft Launcher | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth App | <img src="https://cdn.simpleicons.org/curseforge/F15A24" width="16" height="16"> CurseForge App |
-| :--- | :--- | :--- | :--- | :--- |
-| [About](https://minecraft.wiki/w/Minecraft_Launcher) | [Download](https://www.minecraft.net/en-us/download#alternate-versions) | [Download](https://prismlauncher.org/download) | [Download](https://modrinth.com/app) | [Download](https://www.curseforge.com/download/app) |
+| Launcher | <img src="https://www.google.com/s2/favicons?domain=minecraft.net&sz=32" width="16" height="16"> Minecraft Launcher | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth App | <img src="https://www.labymod.net/page/tpl/assets/images/logo_main.png" width="16" height="16"> LabyMod | <img src="https://cdn.simpleicons.org/curseforge/F15A24" width="16" height="16"> CurseForge App |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [About](https://minecraft.wiki/w/Minecraft_Launcher) | [Download](https://www.minecraft.net/en-us/download#alternate-versions) | [Download](https://prismlauncher.org/download) | [Download](https://modrinth.com/app) | [Download](https://laby.net/client) | [Download](https://www.curseforge.com/download/app)
 </details>
 
 > [!TIP]
-> [Prism Launcher](https://prismlauncher.org) is **highly** recommended!
+> [Prism Launcher](https://prismlauncher.org) is **highly** recommended! ✅
+> 
+> [CurseForge](https://www.curseforge.com/download/app) is **highly** advised against! ❌
