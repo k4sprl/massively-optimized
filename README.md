@@ -1,7 +1,11 @@
 # Massively Optimized
 Blazingly fast, privacy first, and zero clutter.
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-2D3139?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com/project/H8G5m3nM) [![CurseForge](https://img.shields.io/badge/CurseForge-2D3139?style=flat-square&logo=curseforge&logoColor=F16436)](https://github.com/k4sprl/massively-optimized#massively-optimized-downloads) [![Discord](https://img.shields.io/badge/Discord-2D3139?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/xsU8cBwryz)
+[![Prism Launcher](https://flat.badgen.net/badge/-/Prism%20Launcher/2D3139?label=&icon=https://prismlauncher.org/img/logo.svg)](https://github.com/k4sprl/massively-optimized/blob/main/launcher/prismlauncher/instructions.md) [![Modrinth](https://img.shields.io/badge/Modrinth%20App-2D3139?style=flat&logo=modrinth&logoColor=00AF5C)](https://modrinth.com/project/H8G5m3nM)
+[![MC Launcher](https://flat.badgen.net/badge/-/MC%20Launcher/2D3139?label=&icon=https://launcher.mojang.com/download/minecraft-launcher.svg)](https://github.com/k4sprl/massively-optimized/blob/main/official-launcher/instructions.md)
+[![LabyMod](https://custom-icon-badges.demolab.com/badge/LabyMod-2D3139?style=flat&logo=laby)](https://github.com/k4sprl/massively-optimized/blob/main/launcher/laby/instructions.md)
+[![CurseForge](https://img.shields.io/badge/CurseForge-2D3139?style=flat&logo=curseforge&logoColor=F16436)](https://github.com/k4sprl/massively-optimized/blob/main/launcher/curseforge/instructions.md)
+[![Discord](https://img.shields.io/badge/Discord-2D3139?style=flat&logo=discord&logoColor=5865F2)](https://discord.gg/xsU8cBwryz)
 
 
 ### **Donate via Crypto**
