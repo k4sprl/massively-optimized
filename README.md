@@ -80,9 +80,9 @@ Blazingly fast, privacy first, and zero clutter.
 ### Don't have a launcher?
 <details open><summary>Download a launcher</summary>
   
-| Launcher | <img src="https://www.google.com/s2/favicons?domain=minecraft.net&sz=32" width="16" height="16"> Minecraft Launcher | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16"> Prism Launcher | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16"> Modrinth App | <img src="https://www.labymod.net/page/tpl/assets/images/logo_main.png" width="16" height="16"> LabyMod | <img src="https://cdn.simpleicons.org/curseforge/F15A24" width="16" height="16"> CurseForge App |
+| Launcher | <img src="https://www.google.com/s2/favicons?domain=minecraft.net&sz=32" width="16" height="16">&nbsp;Minecraft&nbsp;Launcher | <img src="https://prismlauncher.org/img/logo.svg" width="16" height="16">&nbsp;Prism&nbsp;Launcher | <img src="https://cdn.simpleicons.org/modrinth/1BD96A" width="16" height="16">&nbsp;Modrinth&nbsp;App | <img src="https://www.labymod.net/page/tpl/assets/images/logo_main.png" width="16" height="16">&nbsp;LabyMod | <img src="https://cdn.simpleicons.org/curseforge/F15A24" width="16" height="16">&nbsp;CurseForge&nbsp;App |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [About](https://minecraft.wiki/w/Minecraft_Launcher) | [Download](https://www.minecraft.net/en-us/download#alternate-versions) | [Download](https://prismlauncher.org/download) | [Download](https://modrinth.com/app) | [Download](https://laby.net/client) | [Download](https://www.curseforge.com/download/app)
+| [About](https://minecraft.wiki/w/Minecraft_Launcher) | [Download](https://www.minecraft.net/en-us/download#alternate-versions) | [Download](https://prismlauncher.org/download) | [Download](https://modrinth.com/app) | [Download](https://laby.net/client) | [Download](https://www.curseforge.com/download/app) |
 </details>
 
 > [!TIP]
