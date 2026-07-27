@@ -77,12 +77,6 @@ Blazingly fast, privacy first, and zero clutter.
 
 </details>
 
-## Installer for Official Minecraft Launcher
-> [!CAUTION]
-> The Installer is experimental and may cause issues and MAY (possibly) break your game, or else. Depending on operating system.
-
-[![Download Experimental Installer](https://img.shields.io/badge/Download-Experimental_Installer-critical?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/k4sprl/massively-optimized/main/official-launcher/MassivelyOptimizedInstaller.jar) `.jar`
-
 ### Don't have a launcher?
 <details open><summary>Download a launcher</summary>
   
