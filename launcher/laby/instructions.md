@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/91960c52-cac1-48c4-9ab3-da77afaf13cf
 
 For example, my mod folder's path (on Linux) is:
 
-`/.../PrismLauncher/instances/INSTANCE_NAME/minecraft/labymod-neo/fabric/INSTANCE_NAME/mods/`
+`/.../INSTANCE_NAME/minecraft/labymod-neo/fabric/INSTANCE_NAME/mods/`
 
 You are going to install the mods, resourcepacks and other files from your minecraft version's [Modlist](https://github.com/k4sprl/massively-optimized/tree/main/launcher/laby) into your mod folder
 ## 4. All other files (Resourcepacks, Options, Configs etc.)
