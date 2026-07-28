@@ -13,7 +13,7 @@ FILE:mods/waveycapes-forge-mc1.8.9-1.2.0.jar|https://cdn.modrinth.com/data/kYuIp
 FILE:resourcepacks/LowOnFire_1.8.9.zip|https://cdn.modrinth.com/data/RRxvWKNC/versions/cCRSxQcT/LowOnFire_1.8.9.zip
 
 # 3. DOWNLOAD CONFIGS (It will auto-create the config folder!)
-# FILE:config/resourcify.json|https://github.com/k4sprl/massively-optimized/raw/refs/heads/main/official-launcher/1.8.9/minecraft/config/resourcify.json
+FILE:config/resourcify.json|https://github.com/k4sprl/massively-optimized/raw/refs/heads/main/official-launcher/1.8.9/minecraft/config/resourcify.json
 
 # 4. DOWNLOAD ROOT FILES
 FILE:options.txt|https://github.com/k4sprl/massively-optimized/raw/refs/heads/main/official-launcher/1.8.9/minecraft/options.txt
