@@ -1,0 +1,19 @@
+# 1. TELL THE INSTALLER WHICH FORGE TO USE
+FORGE:11.15.1.2318
+
+# 2. DOWNLOAD MODS
+FILE:mods/3dSkinLayers-forge-mc1.8.9-1.2.0.jar|https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.8.9/3dSkinLayers-forge-mc1.8.9-1.2.0.jar
+FILE:mods/Controlling-7.0.0.1.jar|https://cdn.modrinth.com/data/xv94TkTM/versions/2n09Nqpv/Controlling-7.0.0.1.jar
+FILE:mods/entityculling-forge-mc1.8.9-1.5.0.jar|https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.0-forge-1.8.9/entityculling-forge-mc1.8.9-1.5.0.jar
+FILE:mods/Ksyxis-1.4.3.jar|https://cdn.modrinth.com/data/2ecVyZ49/versions/kL32PN9Q/Ksyxis-1.4.3.jar
+FILE:mods/Resourcify (1.8.9-forge)-1.6.2.jar|https://cdn.modrinth.com/data/RLzHAoZe/versions/9z1sC7BC/Resourcify%20%281.8.9-forge%29-1.6.2.jar
+FILE:mods/waveycapes-forge-mc1.8.9-1.2.0.jar|https://cdn.modrinth.com/data/kYuIpRLv/versions/1.2.0-forge-1.8/waveycapes-forge-mc1.8.9-1.2.0.jar
+
+# 3. DOWNLOAD RESOURCEPACKS
+FILE:resourcepacks/LowOnFire_1.8.9.zip|https://cdn.modrinth.com/data/RRxvWKNC/versions/cCRSxQcT/LowOnFire_1.8.9.zip
+
+# 3. DOWNLOAD CONFIGS (It will auto-create the config folder!)
+# FILE:config/resourcify.json|https://github.com/k4sprl/massively-optimized/raw/refs/heads/main/official-launcher/1.8.9/minecraft/config/resourcify.json
+
+# 4. DOWNLOAD ROOT FILES
+FILE:options.txt|https://github.com/k4sprl/massively-optimized/raw/refs/heads/main/official-launcher/1.8.9/minecraft/options.txt
